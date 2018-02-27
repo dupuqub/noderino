@@ -1,0 +1,13 @@
+{
+  "name": "noderino",
+  "version": "0.0.0",
+  "description": "learning node",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dupuqub",
+  "license": "ISC"
+}
